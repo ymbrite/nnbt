@@ -2,7 +2,7 @@
 title: "稀奇古怪的中国经济"
 slug: "ce"
 description: "这是一篇文章"
-publishedAt: "2026-03-08T08:41:00"
+publishedAt: "2026-03-08"
 author: "YM"
 tags: ["vue", "nuxt", "web-development", "performance"]
 image: "/images/blog/modern-web-apps.jpg"
